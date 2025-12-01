@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "formik",
+        "notistack",
+        "signin",
+        "signup",
+        "toastify",
+        "Wagmi",
+        "ipfs",
+        "IPFS"
+    ],
+    "editor.tabSize": 2,
+    "solidity.compileUsingRemoteVersion": "v0.8.7+commit.e28d00a7",
+    "solidity.remappingsUnix": [
+        "@openzeppelin/=node_modules/@openzeppelin/"
+    ],
+    "editor.lineNumbers": "on",
+    "editor.comments.ignoreEmptyLines": false,
+    "zenMode.hideLineNumbers": false
+}

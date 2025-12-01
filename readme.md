@@ -1,17 +1,9 @@
-# ALL YOU NEED IS NFT README
+# README
 
-## Smart contracts handling
+This project contains some of my Solidity smart contracts used in NFT marketplace development.
 
-### Deploying to local blockchain
+There are also several DeFi-trading and MEV-related contracts.
 
-```shell
-npx hardhat node
+__Repository is for demonstration purposes.__
 
-npx hardhat run scripts/deploy.js --network localhost
-```
-
-### Testing
-
-```shell
-npx hardhat test
-```
+Good luck — [allyouneedisnft.com](https://allyouneedisnft.com)
